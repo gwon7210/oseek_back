@@ -9,7 +9,7 @@ Web Crawling
 ElasticSearch 
 Spring Boot
 Gradle
-JPA, QueryDsl
+JPA QueryDsl
 Kafka
 
 
